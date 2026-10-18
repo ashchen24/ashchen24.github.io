@@ -11,7 +11,7 @@ title                    : "Haotian Chen"
 title_separator          : "-"
 name                     : &name "Haotian Chen"
 description              : &description "personal description"
-url                      : https://haotianchen1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ashchen24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "haotianchen1999"
+  #github           : "ashchen24"
   google_plus      :
   keybase          :
   instagram        :
